@@ -4,8 +4,8 @@
 - I'm not currently looking for opportunities, but feel free to be in touch at [hello@caye.codes](mailto:hello@caye.codes).
 
 ## Projects
-- Most work I do are private contributions! Outside of work, I code for fun—my side projects are over at [caye.codes](https://caye.codes).
-- Sometimes I also write what I learn on my [Medium (mcborreo)](https://mcborreo.medium.com).
+- Most work I do are private contributions! Beyond those, I code for fun—my side projects are over at [caye.codes](https://caye.codes).
+- Sometimes I also write what I learn on [Medium (mcborreo)](https://mcborreo.medium.com).
 - 💌 If you like literary pieces inspired by tech terms, subscribe to my Substack [Dev Dictionary](https://devdictionary.substack.com)! I post updates on Thursdays.
 
 
