@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there! I'm Caye. Nice to meet you 👋
+- I'm based in Manila, Philippines, and I've been building things on the web since 2018.
+- I primarily use Javascript (React, Node, GraphQL), occasionally Python (Django) for my projects.
+- I'm not currently looking for opportunities, but feel free to be in touch at [hello@caye.codes](mailto:hello@caye.codes).
+
+## Projects
+- Most work I do are private contributions! Outside of work, I code for fun—my side projects are over at [caye.codes](https://caye.codes).
+- Sometimes I also write what I learn on my [Medium (mcborreo)](https://mcborreo.medium.com).
+- 💌 If you like literary pieces inspired by tech terms, subscribe to my Substack [Dev Dictionary](https://devdictionary.substack.com)! I post updates on Thursdays.
+
 
 <!--
 **cayeborreo/cayeborreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
